@@ -19,7 +19,13 @@ namespace cSharpPractice
 
               Console.ReadLine();*/
 
-            Console.WriteLine("There once was a man named George");
+            string characterName = "George";
+
+            int characterAge;
+            characterAge = 70;
+
+
+            Console.WriteLine("There once was a man named George " + characterName);
             Console.WriteLine("He was 70 years old");
             Console.WriteLine("He really like the name George");
             Console.WriteLine("But he didnt like being 70");
