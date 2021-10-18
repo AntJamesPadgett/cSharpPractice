@@ -44,6 +44,15 @@ namespace cSharpPractice
 
                 Console.ReadLine();*/
 
+            Console.WriteLine("Giraffe\nAcademy");
+
+            string phrase = "Giraffe Academy";
+            Console.WriteLine(phrase.Length);
+
+            
+
+            Console.ReadLine();
+
 
             
 
