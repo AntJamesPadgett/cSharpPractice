@@ -1,0 +1,16 @@
+C:\Users\antho\repos\cSharpPractice\bin\Debug\net5.0\cSharpPractice.exe
+C:\Users\antho\repos\cSharpPractice\bin\Debug\net5.0\cSharpPractice.deps.json
+C:\Users\antho\repos\cSharpPractice\bin\Debug\net5.0\cSharpPractice.runtimeconfig.json
+C:\Users\antho\repos\cSharpPractice\bin\Debug\net5.0\cSharpPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\cSharpPractice\bin\Debug\net5.0\cSharpPractice.dll
+C:\Users\antho\repos\cSharpPractice\bin\Debug\net5.0\ref\cSharpPractice.dll
+C:\Users\antho\repos\cSharpPractice\bin\Debug\net5.0\cSharpPractice.pdb
+C:\Users\antho\repos\cSharpPractice\obj\Debug\net5.0\cSharpPractice.csproj.AssemblyReference.cache
+C:\Users\antho\repos\cSharpPractice\obj\Debug\net5.0\cSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\cSharpPractice\obj\Debug\net5.0\cSharpPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\cSharpPractice\obj\Debug\net5.0\cSharpPractice.AssemblyInfo.cs
+C:\Users\antho\repos\cSharpPractice\obj\Debug\net5.0\cSharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\cSharpPractice\obj\Debug\net5.0\cSharpPractice.dll
+C:\Users\antho\repos\cSharpPractice\obj\Debug\net5.0\ref\cSharpPractice.dll
+C:\Users\antho\repos\cSharpPractice\obj\Debug\net5.0\cSharpPractice.pdb
+C:\Users\antho\repos\cSharpPractice\obj\Debug\net5.0\cSharpPractice.genruntimeconfig.cache
