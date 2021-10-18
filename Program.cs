@@ -19,21 +19,30 @@ namespace cSharpPractice
 
               Console.ReadLine();*/
 
-          /*  string characterName = "George";
+            /*  string characterName = "George";
 
-            int characterAge;
-            characterAge = 35;
-
-
-            Console.WriteLine("There once was a man named " + characterName);
-            Console.WriteLine("He was " + characterAge +" years old");
-
-            characterName = "Mike";
-            Console.WriteLine("He really liked the name " + characterName);
-            Console.WriteLine("But he didnt like being " + characterAge);
+              int characterAge;
+              characterAge = 35;
 
 
-            Console.ReadLine();*/
+              Console.WriteLine("There once was a man named " + characterName);
+              Console.WriteLine("He was " + characterAge +" years old");
+
+              characterName = "Mike";
+              Console.WriteLine("He really liked the name " + characterName);
+              Console.WriteLine("But he didnt like being " + characterAge);
+
+
+              Console.ReadLine();*/
+
+            /*string phrase = "Giraffe Academy"; 
+            char grade = 'A';
+            int age = 30;
+            double gpa = 3.6;
+            bool isMale = true;
+            Console.WriteLine(true);
+
+                Console.ReadLine();*/
 
 
             
