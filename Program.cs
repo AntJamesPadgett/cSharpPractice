@@ -8,7 +8,14 @@ namespace cSharpPractice
     {
         static void Main(string[] args)
         {
-             Console.WriteLine("Hello World, We meet again.");
+            // Console.WriteLine("Hello World, We meet again.");
+
+            // Console.ReadLine();
+
+            Console.WriteLine("   /|");
+            Console.WriteLine("  / |");
+            Console.WriteLine(" /  |");
+            Console.WriteLine("/___|");
 
             Console.ReadLine();
 
