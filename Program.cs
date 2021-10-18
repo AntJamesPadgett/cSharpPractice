@@ -22,13 +22,13 @@ namespace cSharpPractice
             string characterName = "George";
 
             int characterAge;
-            characterAge = 70;
+            characterAge = 35;
 
 
-            Console.WriteLine("There once was a man named George " + characterName);
-            Console.WriteLine("He was 70 years old");
-            Console.WriteLine("He really like the name George");
-            Console.WriteLine("But he didnt like being 70");
+            Console.WriteLine("There once was a man named " + characterName);
+            Console.WriteLine("He was " + characterAge +" years old");
+            Console.WriteLine("He really liked the name " + characterName);
+            Console.WriteLine("But he didnt like being " + characterAge);
 
 
             Console.ReadLine();
