@@ -62,11 +62,57 @@ namespace cSharpPractice
 
             //Console.WriteLine( num);
 
-            Console.WriteLine(Math.Max(4, 2));
-            Console.ReadLine();
-            
+            // Console.WriteLine(Math.Max(4, 2));
+            // Console.ReadLine();
 
-            
+
+
+            /* Console.Write("Enter your name: ");
+              string name = Console.ReadLine();
+
+             Console.Write("Enter your age: ");
+             string age = Console.ReadLine();
+
+             Console.WriteLine("Hello " + name + " you are " + age);
+             Console.ReadLine();*/
+
+
+            // int num = Convert.ToInt32("45");
+            // Console.WriteLine(num + 6);
+
+            // Console.ReadLine();
+
+            // int num = Convert.ToInt32 ("45");
+
+            // Console.WriteLine(num + 6);
+
+            //Console.ReadLine();
+
+           // basic calculator.. int for whole double for whole and decimal
+
+
+            //Console.Write("Enter a number: ");
+            //double num1 = Convert.ToDouble(Console.ReadLine());
+            //Console.Write("Enter another number: ");
+            //double num2 = Convert.ToDouble(Console.ReadLine());
+
+            //Console.WriteLine(num1 + num2);
+
+            //Console.ReadLine();
+
+            Console.Write("Enter a number:");
+                int num3 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter anothger nunber: ");
+            int num4 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine(num3 + num4);
+            Console.ReadLine();
+
+
+
+
+
+
             
         }
     }
